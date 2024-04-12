@@ -1,4 +1,6 @@
 # SPH-6004-Assignment-2-Team2
+
+## **Prediction of length of stay (los_icu)**
 **Data Preprocessing**:
 
 *Normalization*: Scale continuous features to a similar range to help the CNN model train more efficiently.
