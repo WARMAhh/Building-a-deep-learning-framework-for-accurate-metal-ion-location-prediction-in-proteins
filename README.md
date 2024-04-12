@@ -1,5 +1,4 @@
-# SPH-6004-Assignment-2-Team2
-
+# Convolution Neruon Network
 ## **Prediction of length of stay (los_icu)**
 **Data Preprocessing**:
 
